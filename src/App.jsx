@@ -13,6 +13,7 @@ function App() {
       <Sidenav/>
       <Main/>
       <Work/>
+      <Projects/>
     </>
   )
 }
